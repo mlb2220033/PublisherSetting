@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BookStore</string>
+    <string-array name="provinces_name">
+        <item>Hà Nội</item>
+        <item>Hồ Chí Minh</item>
+        <item>Cần Thơ</item>
+    </string-array>
+</resources>
